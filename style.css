@@ -1,0 +1,29 @@
+.container{
+    width: 1170px;
+    margin: auto;
+}
+.menu__inner{
+    display: flex;
+    padding-left: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav{
+    display: flex;
+    list-style: none;
+    padding-left: 20px;
+}
+.nav li{
+    padding-left: 50px;
+}
+.nav li a{
+    text-decoration:none
+}
+.logo img{
+    height: 100px;
+    width: 100px;
+}
+.genre img{
+    height: 150px;
+    width: 150px;
+}
